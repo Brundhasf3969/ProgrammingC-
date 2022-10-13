@@ -1,0 +1,15 @@
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\bin\Debug\net6.0\Question2.exe
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\bin\Debug\net6.0\Question2.deps.json
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\bin\Debug\net6.0\Question2.runtimeconfig.json
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\bin\Debug\net6.0\Question2.dll
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\bin\Debug\net6.0\Question2.pdb
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.csproj.AssemblyReference.cache
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.AssemblyInfoInputs.cache
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.AssemblyInfo.cs
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.csproj.CoreCompileInputs.cache
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.dll
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\refint\Question2.dll
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.pdb
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\Question2.genruntimeconfig.cache
+D:\Brundha V\C#\HomeAssignment\ArrayStatement\Question2\obj\Debug\net6.0\ref\Question2.dll
